@@ -1,0 +1,23 @@
+.keyboard-shortcuts {
+  margin-top: 20px;
+}
+
+.keyboard-shortcuts h2 {
+  font-size: 1.2em;
+  color: #333;
+  margin: 0;
+}
+
+.keyboard-shortcuts ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.keyboard-shortcuts li {
+  margin: 5px 0;
+}
+
+.keyboard-shortcuts strong {
+  color: #007bff;
+}
