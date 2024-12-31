@@ -5,13 +5,18 @@ const KeyboardShortcuts: React.FC = () => {
     { keys: "Enter", description: "Calculates the result of the expression" },
     { keys: "Backspace", description: "Deletes the last character" },
     {
-      keys: "Tab or Arrow Left/Arrow Right",
-      description: "Navigate through buttons and fields",
+      keys: "Tab/Arrow Right",
+      description: "Navigate to next button",
     },
-    { keys: "Space", description: "Select the focused number" },
-    { keys: "Shift + C", description: "Clears the current expression" },
-    { keys: "Shift + H", description: "Clears the current history" },
-    { keys: "0-9, +, -, *, /", description: "Insert numbers and operators" },
+    {
+      keys: "Shift + Tab/Arrow Left",
+      description: "Navigate to previous button",
+    },
+    { keys: "Space", description: "Select the focused button" },
+    { keys: "Shift + C", description: "Clear current expression" },
+    { keys: "Shift + H", description: "Clear history" },
+    { keys: "0-9", description: "Input numbers" },
+    { keys: "+/-/*", description: "Input operators" },
   ];
 
   return (

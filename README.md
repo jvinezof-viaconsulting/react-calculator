@@ -38,9 +38,10 @@ This calculator application demonstrates how to build accessible web application
 
 | Shortcut | Description |
 |----------|-------------|
-| Enter | Calculate result |
-| Backspace | Delete last character |
-| Tab/Arrow Keys | Navigate buttons |
+| Enter | Calculates the result of the expression |
+| Backspace | Deletes the last character |
+| Tab/Arrow Right | Navigate to next button |
+| Shift + Tab/Arrow Left | Navigate to previous button |
 | Space | Select focused button |
 | Shift + C | Clear current expression |
 | Shift + H | Clear history |
