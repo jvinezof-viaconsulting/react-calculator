@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1735649895337" clover="3.2.0">
-  <project timestamp="1735649895337" name="All files">
+<coverage generated="1735759998731" clover="3.2.0">
+  <project timestamp="1735759998731" name="All files">
     <metrics statements="108" coveredstatements="108" conditionals="24" coveredconditionals="24" methods="27" coveredmethods="27" elements="159" coveredelements="159" complexity="0" loc="108" ncloc="108" packages="8" files="9" classes="9"/>
     <package name="src">
       <metrics statements="11" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
@@ -135,9 +135,9 @@
         <line num="1" count="1" type="stmt"/>
         <line num="3" count="1" type="stmt"/>
         <line num="4" count="3" type="stmt"/>
-        <line num="17" count="3" type="stmt"/>
-        <line num="22" count="21" type="stmt"/>
-        <line num="31" count="1" type="stmt"/>
+        <line num="22" count="3" type="stmt"/>
+        <line num="27" count="27" type="stmt"/>
+        <line num="36" count="1" type="stmt"/>
       </file>
     </package>
     <package name="src.utils.math-operations">
